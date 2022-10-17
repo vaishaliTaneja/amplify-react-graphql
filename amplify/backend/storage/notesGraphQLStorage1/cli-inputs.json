@@ -1,0 +1,14 @@
+{
+  "resourceName": "notesGraphQLStorage1",
+  "policyUUID": "54b8a33b",
+  "bucketName": "amplifyreactgrahql1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
